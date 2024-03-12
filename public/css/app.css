@@ -1,0 +1,18 @@
+body{
+    margin: auto;
+    padding: 0;
+}
+.header-number{
+    font-family: 'M PLUS 1p', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+}
+.category{
+    border: 1px #1C63CE solid;
+    border-radius: 5px;
+}
+.textcart{
+    font-family: 'M PLUS 1p', sans-serif;
+    font-weight: 800;
+    font-weight: normal;
+}
